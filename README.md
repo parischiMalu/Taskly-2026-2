@@ -6,7 +6,9 @@ Aplicativo de gerenciamento de tarefas
 ## Integrantes
 
 [João Vitor Taques Marques](https://github.com/JoaoVitorTaques)
-Larissa Cortez Pinheiro Da Silva
+
+[Larissa Cortez Pinheiro Da Silva](https://github.com/cortezlari)
+
 [Maria Luiza Parischi Fogaça](https://github.com/parischiMalu)
 
 ## Descrição do projeto
