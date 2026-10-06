@@ -56,7 +56,7 @@
 * **Requisitos Relacionados:** RF09, RF10
 
 ### RF12 Notificação de hábitos
-* **Descrição:** O sistema deve permitir que o usuário configure e receba notificações para lembrá-lo da realização de seus hábitos.
+* **Descrição:** O sistema deve permitir que o usuário configure e receba notificações para lembrá-lo da realização de seus hábitos, utilizando o horário definido na configuração de recorrência do hábito.
 * **Prioridade:** Média
 * **Requisitos Relacionados:** RF09, RF10
 
@@ -66,7 +66,7 @@
 * **Requisitos Relacionados:** RF09
 
 ### RF14 Criação de metas
-* **Descrição:** O sistema deve permitir que o usuário crie metas de médio ou longo prazo relacionadas aos estudos ou a objetivos pessoais, sendo necessário informar um nome para a meta e definir etapas para cada meta criada.
+* **Descrição:** O sistema deve permitir que o usuário crie metas de médio ou longo prazo relacionadas aos estudos ou a objetivos pessoais, sendo necessário informar um nome para a meta.
 * **Prioridade:** Alta
 * **Requisitos Relacionados:** RF02
 
