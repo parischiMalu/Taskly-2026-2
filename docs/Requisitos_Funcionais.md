@@ -81,7 +81,7 @@
 * **Requisitos Relacionados:** RF14, RF15
 
 ### RF17 Temporizador de estudos
-* **Descrição:** O sistema deve permitir que o usuário utilize um temporizador para organizar suas sessões de estudo, apresentando uma configuração padrão de 25 minutos de estudo e 5 minutos de descanso e permitindo que o usuário altere esses períodos conforme sua necessidade.
+* **Descrição:** O sistema deve permitir que o usuário utilize um temporizador para organizar suas sessões de estudo, apresentando uma configuração padrão de 25 minutos de estudo e 5 minutos de descanso e permitindo que o usuário altere esses períodos conforme sua necessidade. O temporizador deve permitir pausar, retomar e cancelar uma sessão.
 * **Prioridade:** Alta
 * **Requisitos Relacionados:** RF02
 
