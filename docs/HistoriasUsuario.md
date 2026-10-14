@@ -22,7 +22,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve disponibilizar uma opção para realizar o cadastro.</li><li>O sistema deve permitir que o usuário informe e-mail, nome e senha.</li><li>O sistema deve permitir concluir o cadastro após o preenchimento dos dados necessários.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
         </tr>
         <tr>
             <span id="ustory-02"></span>
@@ -31,7 +31,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve disponibilizar uma opção para realizar login.</li><li>O sistema deve permitir que o usuário informe e-mail e senha.</li><li>O sistema deve permitir o acesso às funcionalidades pessoais após o login.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF02</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
         </tr>     
         <tr>
             <span id="ustory-03"></span>
@@ -40,7 +40,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve disponibilizar uma opção para acessar as informações pessoais.</li><li>O sistema deve apresentar as informações pessoais cadastradas pelo usuário.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
         </tr>
         <tr>
             <span id="ustory-04"></span>
@@ -49,7 +49,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário acesse suas informações pessoais cadastradas.</li><li>O sistema deve permitir que o usuário altere suas próprias informações pessoais cadastradas.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr> 
         <tr>
             <span id="ustory-05"></span>
@@ -58,7 +58,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário crie uma nova tarefa.</li><li>O sistema deve adicionar a tarefa criada à lista de tarefas.</li><li>O sistema deve apresentar a tarefa criada na lista.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF04</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <span id="ustory-06"></span>
@@ -67,7 +67,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário visualize suas tarefas cadastradas.</li><li>O sistema deve permitir que o usuário edite uma tarefa cadastrada.</li><li>O sistema deve permitir que o usuário exclua uma tarefa cadastrada.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF04</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <span id="ustory-07"></span>
@@ -94,7 +94,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário visualize suas anotações cadastradas.</li><li>O sistema deve permitir que o usuário edite uma anotação cadastrada.</li><li>O sistema deve permitir que o usuário exclua uma anotação cadastrada.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF05</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <span id="ustory-10"></span>
@@ -103,7 +103,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário crie um novo evento.</li><li>O sistema deve permitir que o usuário informe o nome do evento.</li><li>O sistema deve permitir que o usuário informe a data do evento.</li><li>O sistema deve permitir que o usuário informe o horário do evento.</li><li>O sistema deve permitir que o usuário informe uma descrição para o evento.</li><li>O sistema deve apresentar o evento criado no calendário.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF06</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <span id="ustory-11"></span>
@@ -112,7 +112,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário visualize seus eventos no calendário.</li><li>O sistema deve permitir que o usuário edite um evento cadastrado.</li><li>O sistema deve permitir que o usuário exclua um evento cadastrado.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF06</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-12"></span>
@@ -139,7 +139,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário cadastre um novo hábito.</li><li>O sistema deve exigir que o usuário informe o nome do hábito.</li><li>O sistema deve permitir que o usuário informe uma descrição opcional para o hábito.</li><li>O sistema deve disponibilizar o hábito cadastrado para configuração de recorrência.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF09</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <span id="ustory-15"></span>
@@ -148,7 +148,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir configurar o hábito com frequência diária ou semanal.</li><li>O sistema deve permitir informar o horário de realização do hábito.</li><li>Quando a frequência for semanal, o sistema deve permitir selecionar o dia da semana.</li><li>O sistema deve registrar as configurações de recorrência definidas para o hábito.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
         </tr>
         <tr>
             <span id="ustory-16"></span>
@@ -157,7 +157,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve apresentar os hábitos cadastrados pelo usuário.</li><li>O sistema deve apresentar a frequência configurada para cada hábito.</li><li>O sistema deve apresentar o horário configurado para cada hábito.</li><li>Quando a frequência for semanal, o sistema deve apresentar o dia da semana configurado.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF11</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
         </tr>
         <tr>
             <span id="ustory-17"></span>
@@ -166,7 +166,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário ative as notificações para um hábito cadastrado.</li><li>O sistema deve enviar a notificação de acordo com o horário definido na configuração de recorrência do hábito.</li><li>A notificação deve permitir identificar o hábito relacionado.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF12</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-18"></span>
@@ -175,7 +175,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve disponibilizar sugestões de hábitos ao usuário.</li><li>O sistema deve permitir que o usuário adicione uma sugestão de hábito à sua rotina.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Baixa</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF13</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
         </tr>
         <tr>
             <span id="ustory-19"></span>
@@ -184,7 +184,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário crie uma nova meta.</li><li>O sistema deve exigir que o usuário informe um nome para a meta.</li><li>O sistema deve permitir que a meta esteja relacionada aos estudos ou a um objetivo pessoal.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF14</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-20"></span>
@@ -193,7 +193,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário crie uma ou mais etapas para uma meta.</li><li>O sistema deve exigir que o usuário informe o nome da etapa.</li><li>O sistema deve permitir que o usuário informe uma descrição opcional para a etapa.</li><li>O sistema deve permitir que o usuário informe um prazo opcional para a etapa.</li><li>O sistema deve associar cada etapa à sua respectiva meta.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF15</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-21"></span>
@@ -202,7 +202,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário marque uma etapa como concluída.</li><li>O sistema deve permitir que uma etapa permaneça como não concluída.</li><li>O sistema deve apresentar o progresso da meta com base na quantidade de etapas concluídas.</li><li>O sistema deve considerar a meta concluída quando todas as suas etapas forem marcadas como concluídas.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF16</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
         </tr>
         <tr>
             <span id="ustory-22"></span>
@@ -211,7 +211,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve apresentar, como configuração padrão, 25 minutos de estudo e 5 minutos de descanso.</li><li>O sistema deve permitir que o usuário altere o tempo de estudo.</li><li>O sistema deve permitir que o usuário altere o tempo de descanso.</li><li>O sistema deve permitir que o usuário inicie o temporizador com os períodos configurados.</li><li>O sistema deve permitir que o usuário pause uma sessão em andamento.</li><li>O sistema deve permitir que o usuário retome uma sessão pausada.</li><li>O sistema deve permitir que o usuário cancele uma sessão em andamento.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF17</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-23"></span>
@@ -220,7 +220,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve registrar o tempo utilizado em uma sessão de estudo realizada por meio do temporizador.</li><li>O sistema não deve registrar uma sessão que tenha sido cancelada.</li><li>O sistema deve disponibilizar os registros das sessões para consulta no histórico de estudos.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF18</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">4</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
             <span id="ustory-24"></span>
@@ -229,7 +229,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário consulte suas sessões de estudo registradas.</li><li>O sistema deve apresentar as informações registradas sobre as sessões de estudo.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF19</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">2</td>
         </tr>
 
 </table>
