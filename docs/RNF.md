@@ -12,6 +12,8 @@
 | RNF06 | O sistema deve armazenar e gerenciar os dados do usuário conforme a Lei Geral de Proteção de Dados. | Externos/Legais  | Alta | RF01, RF02, RF03 |
 | RNF07 | O sistema deve enviar as notificações de lembrete até 1 minuto após o horário definido. | Produto/Eficiência | Alta | RF07, RF08 |
 | RNF08 | O sistema deve permitir o uso e a consulta de tarefas, notas e hábitos já salvos mesmo quando o dispositivo estiver sem conexão com a internet (Modo Offline). | Produto/Disponibilidade | Média | - |
+| RNF09 | O código-fonte do sistema deve ser versionado utilizando o Git e mantido em um repositório centralizado no GitHub. | Organizacional/Implementação | Alta | - |
+| RNF10 | O sistema deve exibir mensagens de erro claras e intuitivas sempre que ocorrer uma falha de validação ou conexão. | Produto/Usabilidade | Média | - |
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Não Funcionais</p>
