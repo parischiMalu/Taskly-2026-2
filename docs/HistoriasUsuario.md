@@ -46,7 +46,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-04"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como usuário, quero gerenciar minhas informações pessoais cadastradas, para manter meus dados atualizados no aplicativo.</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário acesse suas informações pessoais cadastradas.</li><li>O sistema deve permitir que o usuário altere suas próprias informações pessoais cadastradas.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário altere suas próprias informações pessoais cadastradas.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
@@ -127,9 +127,9 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-13"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US13</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como usuário, quero receber notificações dos meus eventos no momento configurado, para ser lembrado dos meus compromissos.</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve enviar a notificação no momento configurado pelo usuário.</li><li>A notificação deve estar relacionada ao evento correspondente.</li><li>A notificação deve apresentar informações que permitam identificar o evento, como nome e horário.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve enviar a notificação no momento configurado pelo usuário, não ultrapassando 1 minuto após o horário definido.</li><li>A notificação deve estar relacionada ao evento correspondente.</li><li>A notificação deve apresentar informações que permitam identificar o evento, como nome e horário.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF08</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF08, RNF07</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
@@ -163,9 +163,9 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-17"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US17</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como usuário, quero receber notificações para meus hábitos, para ser lembrado de realizá-los.</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário ative as notificações para um hábito cadastrado.</li><li>O sistema deve enviar a notificação de acordo com o horário definido na configuração de recorrência do hábito.</li><li>A notificação deve permitir identificar o hábito relacionado.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve permitir que o usuário ative as notificações para um hábito cadastrado.</li><li>O sistema deve enviar a notificação no máximo 1 minuto após o horário definido para o hábito.</li><li>A notificação deve permitir identificar o hábito relacionado.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF12</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF12, RNF07</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
         </tr>
         <tr>
@@ -208,7 +208,7 @@ A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-22"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US22</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como usuário, quero utilizar e configurar o temporizador para minhas sessões de estudo, para organizar meus períodos de concentração e descanso.</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve apresentar, como configuração padrão, 25 minutos de estudo e 5 minutos de descanso.</li><li>O sistema deve permitir que o usuário altere o tempo de estudo.</li><li>O sistema deve permitir que o usuário altere o tempo de descanso.</li><li>O sistema deve permitir que o usuário inicie o temporizador com os períodos configurados.</li><li>O sistema deve permitir que o usuário pause uma sessão em andamento.</li><li>O sistema deve permitir que o usuário retome uma sessão pausada.</li><li>O sistema deve permitir que o usuário cancele uma sessão em andamento.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O sistema deve apresentar, como configuração padrão, 25 minutos de estudo e 5 minutos de descanso.</li><li>O sistema deve permitir que o usuário altere o tempo de estudo e de descanso.</li><li>O sistema deve permitir que o usuário inicie e pause o temporizador.</li><li>O sistema deve permitir que o usuário retome uma sessão pausada.</li><li>O sistema deve permitir que o usuário cancele uma sessão em andamento.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF17</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">3</td>
