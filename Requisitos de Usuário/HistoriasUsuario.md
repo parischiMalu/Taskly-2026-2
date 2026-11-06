@@ -1,6 +1,6 @@
 # 1. História de Usuário
 
-<p align="justify">A Tabela 2 a seguir contém as Histórias de Usuárias elicitadas.</p>
+<p align="justify">A Tabela 2 a seguir contém as Histórias de Usuários elicitadas.</p>
 
 | ID | História de Usuário | Critérios de aceitação | Prioridade | RF/RNF relacionado | Story Points |
 | :--: | :-- | :-- | :--: | :--: | :--: |
