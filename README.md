@@ -16,7 +16,7 @@
 - [Maria Luiza Parischi Fogaça](https://github.com/parischiMalu)
 ## Vídeo de apresentação
  
-**Link do vídeo:**
+**Link do vídeo:** [Vídeo de apresentação](https://drive.google.com/file/d/1itjZ4ASbPF_1nBAfJnAHjCMFMn0mOScF/view?pli=1)
 
 ## Descrição do projeto
 O projeto consiste no desenvolvimento de um aplicativo mobile de gerenciamento de tarefas e organização pessoal voltado principalmente para estudantes. O objetivo é auxiliar os usuários a organizar sua rotina acadêmica e pessoal, permitindo que acompanhem seus compromissos, registrem informações importantes e sejam lembrados de atividades que precisam realizar ao longo do dia ou da semana.
