@@ -68,6 +68,7 @@ Dessa forma, o aplicativo busca reunir, em um único ambiente, ferramentas de or
  
 | Documento | Descrição |
 | :-- | :-- |
+| [Prototipo.md](Prototipação/Prototipo.md) | Descrição do protótipo, link do Figma, telas apresentadas e orientações de navegação |
 
  
 ## Gerenciamento do projeto
